@@ -1,0 +1,4 @@
+.purchased {
+    text-decoration: line-through; /* Strikethrough text */
+    color: #808080; /* grey color */
+  }
